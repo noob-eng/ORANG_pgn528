@@ -1,0 +1,5 @@
+/root/oran/out/target/product/PGN528/obj_arm/EXECUTABLES/linker_intermediates/rt.o: \
+ bionic/linker/rt.cpp \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h
+ bionic/linker/rt.cpp :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :

@@ -1,0 +1,11 @@
+/root/oran/out/target/product/PGN528/obj/EXECUTABLES/simg2img_twrp_intermediates/sparse_crc32.o: \
+ system/core/libsparse/sparse_crc32.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/libc/include/stdint.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h \
+ bionic/libc/include/machine/wchar_limits.h
+ system/core/libsparse/sparse_crc32.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/libc/include/stdint.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h :
+ bionic/libc/include/machine/wchar_limits.h :

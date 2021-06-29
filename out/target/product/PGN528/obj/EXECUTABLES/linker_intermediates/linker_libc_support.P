@@ -1,0 +1,7 @@
+/root/oran/out/target/product/PGN528/obj/EXECUTABLES/linker_intermediates/linker_libc_support.o: \
+ bionic/linker/linker_libc_support.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/linker/../libc/arch-common/bionic/__dso_handle.h
+ bionic/linker/linker_libc_support.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/linker/../libc/arch-common/bionic/__dso_handle.h :

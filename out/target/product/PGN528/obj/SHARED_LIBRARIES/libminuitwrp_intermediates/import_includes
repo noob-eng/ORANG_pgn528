@@ -1,0 +1,6 @@
+-I external/zlib
+-I external/libpng
+-I system/core/libpixelflinger/include
+-I system/core/adf/libadf/include
+-I external/libdrm
+-I external/libdrm/include/drm

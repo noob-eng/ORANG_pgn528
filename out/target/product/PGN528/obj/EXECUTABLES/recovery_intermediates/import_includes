@@ -1,0 +1,4 @@
+-I external/zlib
+-I bootable/recovery/bootloader_message_twrp/include
+-I system/core/base/include
+-I system/core/libsparse/include

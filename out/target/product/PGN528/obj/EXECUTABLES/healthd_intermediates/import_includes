@@ -1,0 +1,3 @@
+-I bootable/recovery/minui/include
+-I external/libpng
+-I external/zlib

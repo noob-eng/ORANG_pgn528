@@ -1,0 +1,55 @@
+/root/oran/out/target/product/PGN528/obj/SHARED_LIBRARIES/libext4_utils_intermediates/ext4_sb.o: \
+ system/extras/ext4_utils/ext4_sb.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/libc/include/errno.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/android/api-level.h \
+ bionic/libc/kernel/uapi/linux/errno.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h \
+ system/extras/ext4_utils/ext4_sb.h \
+ system/extras/ext4_utils/ext4_kernel_headers.h \
+ bionic/libc/include/stdint.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h \
+ bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/include/sys/types.h bionic/libc/kernel/uapi/linux/types.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/types.h \
+ bionic/libc/kernel/uapi/asm-generic/types.h \
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/bitsperlong.h \
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h \
+ bionic/libc/kernel/uapi/linux/posix_types.h \
+ bionic/libc/kernel/uapi/linux/stddef.h \
+ bionic/libc/kernel/uapi/linux/compiler.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/posix_types.h \
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h \
+ bionic/libc/include/sys/sysmacros.h system/extras/ext4_utils/ext4.h \
+ system/extras/ext4_utils/xattr.h system/extras/ext4_utils/ext4_extents.h \
+ system/extras/ext4_utils/jbd2.h
+ system/extras/ext4_utils/ext4_sb.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/libc/include/errno.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/android/api-level.h :
+ bionic/libc/kernel/uapi/linux/errno.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h :
+ system/extras/ext4_utils/ext4_sb.h :
+ system/extras/ext4_utils/ext4_kernel_headers.h :
+ bionic/libc/include/stdint.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h :
+ bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/include/sys/types.h bionic/libc/kernel/uapi/linux/types.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/types.h :
+ bionic/libc/kernel/uapi/asm-generic/types.h :
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/bitsperlong.h :
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h :
+ bionic/libc/kernel/uapi/linux/posix_types.h :
+ bionic/libc/kernel/uapi/linux/stddef.h :
+ bionic/libc/kernel/uapi/linux/compiler.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/posix_types.h :
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h :
+ bionic/libc/include/sys/sysmacros.h system/extras/ext4_utils/ext4.h :
+ system/extras/ext4_utils/xattr.h system/extras/ext4_utils/ext4_extents.h :
+ system/extras/ext4_utils/jbd2.h :

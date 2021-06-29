@@ -1,0 +1,6 @@
+-I system/core/fs_mgr/include
+-I system/core/logwrapper/include
+-I system/core/base/include
+-I system/core/libsparse/include
+-I external/zlib
+-I external/e2fsprogs/lib/uuid

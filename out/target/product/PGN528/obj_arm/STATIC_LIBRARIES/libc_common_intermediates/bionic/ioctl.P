@@ -1,0 +1,7 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libc_common_intermediates/bionic/ioctl.o: \
+ bionic/libc/bionic/ioctl.c \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stdarg.h
+ bionic/libc/bionic/ioctl.c :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stdarg.h :

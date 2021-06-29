@@ -1,0 +1,7 @@
+/root/oran/out/target/product/PGN528/obj/SHARED_LIBRARIES/libcrypto_intermediates/linux-aarch64/crypto/sha/sha512-armv8.o: \
+ external/boringssl/linux-aarch64/crypto/sha/sha512-armv8.S \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ external/boringssl/arm_arch.h
+ external/boringssl/linux-aarch64/crypto/sha/sha512-armv8.S :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ external/boringssl/arm_arch.h :

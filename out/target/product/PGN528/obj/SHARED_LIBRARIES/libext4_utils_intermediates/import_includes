@@ -1,0 +1,3 @@
+-I external/e2fsprogs/lib/uuid
+-I system/core/libsparse/include
+-I external/zlib

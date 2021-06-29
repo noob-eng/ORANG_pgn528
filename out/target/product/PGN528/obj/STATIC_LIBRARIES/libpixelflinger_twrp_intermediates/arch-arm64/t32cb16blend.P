@@ -1,0 +1,5 @@
+/root/oran/out/target/product/PGN528/obj/STATIC_LIBRARIES/libpixelflinger_twrp_intermediates/arch-arm64/t32cb16blend.o: \
+ system/core/libpixelflinger/arch-arm64/t32cb16blend.S \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h
+ system/core/libpixelflinger/arch-arm64/t32cb16blend.S :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :

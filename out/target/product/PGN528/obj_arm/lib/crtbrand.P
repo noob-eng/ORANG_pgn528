@@ -1,0 +1,3 @@
+/root/oran/out/target/product/PGN528/obj_arm/lib/crtbrand.o: \
+ bionic/libc/arch-common/bionic/crtbrand.S
+ bionic/libc/arch-common/bionic/crtbrand.S :

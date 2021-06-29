@@ -1,0 +1,29 @@
+/root/oran/out/target/product/PGN528/obj/STATIC_LIBRARIES/libc_bionic_ndk_intermediates/bionic/__errno.o: \
+ bionic/libc/bionic/__errno.cpp \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/libc/include/errno.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/android/api-level.h \
+ bionic/libc/kernel/uapi/linux/errno.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h \
+ bionic/libc/include/stdint.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h \
+ bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/private/bionic_tls.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/uapi/linux/limits.h \
+ bionic/libc/private/bionic_macros.h bionic/libc/private/__get_tls.h
+ bionic/libc/bionic/__errno.cpp :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/libc/include/errno.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/android/api-level.h :
+ bionic/libc/kernel/uapi/linux/errno.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h :
+ bionic/libc/include/stdint.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h :
+ bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/private/bionic_tls.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/uapi/linux/limits.h :
+ bionic/libc/private/bionic_macros.h bionic/libc/private/__get_tls.h :

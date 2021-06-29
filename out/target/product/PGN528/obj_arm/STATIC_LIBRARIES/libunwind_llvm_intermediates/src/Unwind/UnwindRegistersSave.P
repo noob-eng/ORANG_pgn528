@@ -1,0 +1,7 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libunwind_llvm_intermediates/src/Unwind/UnwindRegistersSave.o: \
+  external/libcxxabi/src/Unwind/UnwindRegistersSave.S \
+  build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+  external/libcxxabi/src/Unwind/assembly.h
+  external/libcxxabi/src/Unwind/UnwindRegistersSave.S :
+  build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+  external/libcxxabi/src/Unwind/assembly.h :

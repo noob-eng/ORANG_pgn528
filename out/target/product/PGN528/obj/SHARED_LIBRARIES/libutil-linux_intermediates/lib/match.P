@@ -1,0 +1,13 @@
+/root/oran/out/target/product/PGN528/obj/SHARED_LIBRARIES/libutil-linux_intermediates/lib/match.o: \
+ bootable/recovery/libblkid/lib/match.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/android/api-level.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h \
+ bionic/libc/include/xlocale.h bootable/recovery/libblkid/include/match.h
+ bootable/recovery/libblkid/lib/match.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/android/api-level.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h :
+ bionic/libc/include/xlocale.h bootable/recovery/libblkid/include/match.h :

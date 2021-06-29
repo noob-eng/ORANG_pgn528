@@ -1,0 +1,7 @@
+/root/oran/out/target/product/PGN528/obj/SHARED_LIBRARIES/libutil-linux_intermediates/lib/langinfo.o: \
+ bootable/recovery/libblkid/lib/langinfo.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bootable/recovery/libblkid/include/nls.h
+ bootable/recovery/libblkid/lib/langinfo.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bootable/recovery/libblkid/include/nls.h :

@@ -1,0 +1,5 @@
+-I external/libpng
+-I system/core/base/include
+-I system/core/adf/libadf/include
+-I external/libdrm
+-I external/libdrm/include/drm

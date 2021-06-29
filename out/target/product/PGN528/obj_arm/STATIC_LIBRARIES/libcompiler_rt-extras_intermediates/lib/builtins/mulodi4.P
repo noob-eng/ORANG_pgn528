@@ -1,0 +1,35 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libcompiler_rt-extras_intermediates/lib/builtins/mulodi4.o: \
+  external/compiler-rt/lib/builtins/mulodi4.c \
+  build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+  external/compiler-rt/lib/builtins/int_lib.h \
+  bionic/libc/include/limits.h bionic/libc/include/sys/cdefs.h \
+  bionic/libc/include/android/api-level.h \
+  bionic/libc/include/sys/limits.h \
+  bionic/libc/kernel/uapi/linux/limits.h \
+  bionic/libc/include/sys/syslimits.h \
+  bionic/libc/include/machine/posix_limits.h \
+  bionic/libc/include/stdint.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stddef.h \
+  bionic/libc/include/machine/wchar_limits.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdbool.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/float.h \
+  external/compiler-rt/lib/builtins/int_types.h \
+  external/compiler-rt/lib/builtins/int_endianness.h \
+  external/compiler-rt/lib/builtins/int_util.h
+  external/compiler-rt/lib/builtins/mulodi4.c :
+  build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+  external/compiler-rt/lib/builtins/int_lib.h :
+  bionic/libc/include/limits.h bionic/libc/include/sys/cdefs.h :
+  bionic/libc/include/android/api-level.h :
+  bionic/libc/include/sys/limits.h :
+  bionic/libc/kernel/uapi/linux/limits.h :
+  bionic/libc/include/sys/syslimits.h :
+  bionic/libc/include/machine/posix_limits.h :
+  bionic/libc/include/stdint.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stddef.h :
+  bionic/libc/include/machine/wchar_limits.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdbool.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/float.h :
+  external/compiler-rt/lib/builtins/int_types.h :
+  external/compiler-rt/lib/builtins/int_endianness.h :
+  external/compiler-rt/lib/builtins/int_util.h :

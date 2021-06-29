@@ -1,0 +1,15 @@
+# Target-specific configuration
+
+ifeq ($(BOARD_USES_QCOM_HARDWARE),true)
+
+    COMMON_GLOBAL_CFLAGS += -DQCOM_HARDWARE
+    COMMON_GLOBAL_CPPFLAGS += -DQCOM_HARDWARE
+
+    ifeq ($(TARGET_USES_QCOM_BSP),true)
+        COMMON_GLOBAL_CFLAGS += -DQCOM_BSP -DQTI_BSP
+        COMMON_GLOBAL_CPPFLAGS += -DQCOM_BSP -DQTI_BSP
+    endif
+
+    MSM_VIDC_TARGET_LIST := msm8974 msm8610 msm8226 apq8084 msm8916 msm8994 msm8909 msm8992 msm8996
+
+endif

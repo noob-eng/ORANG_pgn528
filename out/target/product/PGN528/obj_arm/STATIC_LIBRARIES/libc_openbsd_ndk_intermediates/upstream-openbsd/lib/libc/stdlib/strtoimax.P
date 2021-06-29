@@ -1,0 +1,25 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libc_openbsd_ndk_intermediates/upstream-openbsd/lib/libc/stdlib/strtoimax.o: \
+ bionic/libc/upstream-openbsd/lib/libc/stdlib/strtoimax.c \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/upstream-openbsd/android/include/openbsd-compat.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h \
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stddef.h \
+ bionic/libc/include/ctype.h bionic/libc/include/xlocale.h \
+ bionic/libc/include/errno.h bionic/libc/kernel/uapi/linux/errno.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h \
+ bionic/libc/include/inttypes.h bionic/libc/include/stdint.h \
+ bionic/libc/include/machine/wchar_limits.h
+ bionic/libc/upstream-openbsd/lib/libc/stdlib/strtoimax.c :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/upstream-openbsd/android/include/openbsd-compat.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h :
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stddef.h :
+ bionic/libc/include/ctype.h bionic/libc/include/xlocale.h :
+ bionic/libc/include/errno.h bionic/libc/kernel/uapi/linux/errno.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h :
+ bionic/libc/include/inttypes.h bionic/libc/include/stdint.h :
+ bionic/libc/include/machine/wchar_limits.h :

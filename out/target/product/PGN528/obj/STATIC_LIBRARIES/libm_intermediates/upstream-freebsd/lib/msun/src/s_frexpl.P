@@ -1,0 +1,27 @@
+/root/oran/out/target/product/PGN528/obj/STATIC_LIBRARIES/libm_intermediates/upstream-freebsd/lib/msun/src/s_frexpl.o: \
+ bionic/libm/upstream-freebsd/lib/msun/src/s_frexpl.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/libm/freebsd-compat.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/float.h \
+ bionic/libm/include/math.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/android/api-level.h bionic/libc/include/limits.h \
+ bionic/libc/include/sys/limits.h bionic/libc/kernel/uapi/linux/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ bionic/libc/include/machine/posix_limits.h bionic/libm/fpmath.h \
+ bionic/libc/include/endian.h bionic/libc/include/sys/endian.h \
+ bionic/libc/include/stdint.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h \
+ bionic/libc/include/machine/wchar_limits.h
+ bionic/libm/upstream-freebsd/lib/msun/src/s_frexpl.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/libm/freebsd-compat.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/float.h :
+ bionic/libm/include/math.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/android/api-level.h bionic/libc/include/limits.h :
+ bionic/libc/include/sys/limits.h bionic/libc/kernel/uapi/linux/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ bionic/libc/include/machine/posix_limits.h bionic/libm/fpmath.h :
+ bionic/libc/include/endian.h bionic/libc/include/sys/endian.h :
+ bionic/libc/include/stdint.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h :
+ bionic/libc/include/machine/wchar_limits.h :

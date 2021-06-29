@@ -1,0 +1,21 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libc_cxa_intermediates/bionic/__cxa_pure_virtual.o: \
+  bionic/libc/bionic/__cxa_pure_virtual.cpp \
+  build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+  bionic/libc/private/libc_logging.h bionic/libc/include/sys/cdefs.h \
+  bionic/libc/include/android/api-level.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdarg.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stddef.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/__stddef_max_align_t.h \
+  bionic/libc/include/stdint.h \
+  bionic/libc/include/machine/wchar_limits.h \
+  bionic/libc/private/libc_events.h
+  bionic/libc/bionic/__cxa_pure_virtual.cpp :
+  build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+  bionic/libc/private/libc_logging.h bionic/libc/include/sys/cdefs.h :
+  bionic/libc/include/android/api-level.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdarg.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stddef.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/__stddef_max_align_t.h :
+  bionic/libc/include/stdint.h :
+  bionic/libc/include/machine/wchar_limits.h :
+  bionic/libc/private/libc_events.h :

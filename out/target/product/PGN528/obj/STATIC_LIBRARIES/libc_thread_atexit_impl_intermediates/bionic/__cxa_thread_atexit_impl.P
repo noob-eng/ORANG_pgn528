@@ -1,0 +1,7 @@
+/root/oran/out/target/product/PGN528/obj/STATIC_LIBRARIES/libc_thread_atexit_impl_intermediates/bionic/__cxa_thread_atexit_impl.o: \
+ bionic/libc/bionic/__cxa_thread_atexit_impl.cpp \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h
+ bionic/libc/bionic/__cxa_thread_atexit_impl.cpp :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h :

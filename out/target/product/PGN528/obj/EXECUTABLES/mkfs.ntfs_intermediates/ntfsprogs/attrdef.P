@@ -1,0 +1,7 @@
+/root/oran/out/target/product/PGN528/obj/EXECUTABLES/mkfs.ntfs_intermediates/ntfsprogs/attrdef.o: \
+ external/ntfs-3g/ntfsprogs/attrdef.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ external/ntfs-3g/ntfsprogs/attrdef.h
+ external/ntfs-3g/ntfsprogs/attrdef.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ external/ntfs-3g/ntfsprogs/attrdef.h :

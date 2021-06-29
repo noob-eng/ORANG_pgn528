@@ -1,0 +1,2 @@
+-I system/core/libsparse/include
+-I external/zlib

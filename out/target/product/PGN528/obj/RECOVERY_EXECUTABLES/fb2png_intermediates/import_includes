@@ -1,0 +1,2 @@
+-I external/libpng
+-I external/zlib

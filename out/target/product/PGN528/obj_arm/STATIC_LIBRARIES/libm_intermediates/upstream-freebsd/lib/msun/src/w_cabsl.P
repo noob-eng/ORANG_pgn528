@@ -1,0 +1,21 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libm_intermediates/upstream-freebsd/lib/msun/src/w_cabsl.o: \
+ bionic/libm/upstream-freebsd/lib/msun/src/w_cabsl.c \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libm/freebsd-compat.h \
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/float.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h \
+ external/libcxx/include/complex.h bionic/libm/include/complex.h \
+ bionic/libm/include/math.h bionic/libc/include/limits.h \
+ bionic/libc/include/sys/limits.h bionic/libc/kernel/uapi/linux/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ bionic/libc/include/machine/posix_limits.h
+ bionic/libm/upstream-freebsd/lib/msun/src/w_cabsl.c :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libm/freebsd-compat.h :
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/float.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h :
+ external/libcxx/include/complex.h bionic/libm/include/complex.h :
+ bionic/libm/include/math.h bionic/libc/include/limits.h :
+ bionic/libc/include/sys/limits.h bionic/libc/kernel/uapi/linux/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ bionic/libc/include/machine/posix_limits.h :

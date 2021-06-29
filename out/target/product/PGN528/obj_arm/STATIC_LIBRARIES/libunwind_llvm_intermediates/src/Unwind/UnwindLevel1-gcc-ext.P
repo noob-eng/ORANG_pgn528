@@ -1,0 +1,61 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libunwind_llvm_intermediates/src/Unwind/UnwindLevel1-gcc-ext.o: \
+  external/libcxxabi/src/Unwind/UnwindLevel1-gcc-ext.c \
+  build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+  bionic/libc/include/inttypes.h bionic/libc/include/stdint.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stddef.h \
+  bionic/libc/include/machine/wchar_limits.h \
+  bionic/libc/include/sys/cdefs.h \
+  bionic/libc/include/android/api-level.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdbool.h \
+  bionic/libc/include/stdio.h bionic/libc/include/sys/types.h \
+  bionic/libc/kernel/uapi/linux/types.h \
+  bionic/libc/kernel/uapi/asm-arm/asm/types.h \
+  bionic/libc/kernel/uapi/asm-generic/types.h \
+  bionic/libc/kernel/uapi/asm-generic/int-ll64.h \
+  bionic/libc/kernel/uapi/asm-arm/asm/bitsperlong.h \
+  bionic/libc/kernel/uapi/asm-generic/bitsperlong.h \
+  bionic/libc/kernel/uapi/linux/posix_types.h \
+  bionic/libc/kernel/uapi/linux/stddef.h \
+  bionic/libc/kernel/uapi/linux/compiler.h \
+  bionic/libc/kernel/uapi/asm-arm/asm/posix_types.h \
+  bionic/libc/kernel/uapi/asm-generic/posix_types.h \
+  bionic/libc/include/sys/sysmacros.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdarg.h \
+  bionic/libc/include/stdlib.h bionic/libc/include/xlocale.h \
+  bionic/libc/include/alloca.h bionic/libc/include/malloc.h \
+  external/libcxxabi/src/Unwind/config.h bionic/libc/include/assert.h \
+  external/libcxxabi/src/Unwind/libunwind_ext.h \
+  external/libcxxabi/include/libunwind.h \
+  external/libcxxabi/include/__cxxabi_config.h \
+  external/libcxxabi/include/unwind.h \
+  external/libcxxabi/src/Unwind/Unwind-EHABI.h
+  external/libcxxabi/src/Unwind/UnwindLevel1-gcc-ext.c :
+  build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+  bionic/libc/include/inttypes.h bionic/libc/include/stdint.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stddef.h :
+  bionic/libc/include/machine/wchar_limits.h :
+  bionic/libc/include/sys/cdefs.h :
+  bionic/libc/include/android/api-level.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdbool.h :
+  bionic/libc/include/stdio.h bionic/libc/include/sys/types.h :
+  bionic/libc/kernel/uapi/linux/types.h :
+  bionic/libc/kernel/uapi/asm-arm/asm/types.h :
+  bionic/libc/kernel/uapi/asm-generic/types.h :
+  bionic/libc/kernel/uapi/asm-generic/int-ll64.h :
+  bionic/libc/kernel/uapi/asm-arm/asm/bitsperlong.h :
+  bionic/libc/kernel/uapi/asm-generic/bitsperlong.h :
+  bionic/libc/kernel/uapi/linux/posix_types.h :
+  bionic/libc/kernel/uapi/linux/stddef.h :
+  bionic/libc/kernel/uapi/linux/compiler.h :
+  bionic/libc/kernel/uapi/asm-arm/asm/posix_types.h :
+  bionic/libc/kernel/uapi/asm-generic/posix_types.h :
+  bionic/libc/include/sys/sysmacros.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdarg.h :
+  bionic/libc/include/stdlib.h bionic/libc/include/xlocale.h :
+  bionic/libc/include/alloca.h bionic/libc/include/malloc.h :
+  external/libcxxabi/src/Unwind/config.h bionic/libc/include/assert.h :
+  external/libcxxabi/src/Unwind/libunwind_ext.h :
+  external/libcxxabi/include/libunwind.h :
+  external/libcxxabi/include/__cxxabi_config.h :
+  external/libcxxabi/include/unwind.h :
+  external/libcxxabi/src/Unwind/Unwind-EHABI.h :

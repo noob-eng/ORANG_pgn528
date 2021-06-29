@@ -1,0 +1,13 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libm_intermediates/arm/s_floor.o: \
+ bionic/libm/arm/s_floor.S \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/float.h \
+ bionic/libc/private/bionic_asm.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/unistd.h \
+ bionic/libc/arch-arm/include/machine/asm.h
+ bionic/libm/arm/s_floor.S :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/float.h :
+ bionic/libc/private/bionic_asm.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/unistd.h :
+ bionic/libc/arch-arm/include/machine/asm.h :

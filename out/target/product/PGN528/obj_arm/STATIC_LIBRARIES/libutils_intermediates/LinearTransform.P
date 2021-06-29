@@ -1,0 +1,15 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libutils_intermediates/LinearTransform.o: \
+ system/core/libutils/LinearTransform.cpp \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/assert.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/android/api-level.h bionic/libc/include/stdint.h \
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stddef.h \
+ bionic/libc/include/machine/wchar_limits.h \
+ system/core/include/utils/LinearTransform.h
+ system/core/libutils/LinearTransform.cpp :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/assert.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/android/api-level.h bionic/libc/include/stdint.h :
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stddef.h :
+ bionic/libc/include/machine/wchar_limits.h :
+ system/core/include/utils/LinearTransform.h :

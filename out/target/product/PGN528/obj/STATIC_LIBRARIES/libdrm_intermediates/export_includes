@@ -1,0 +1,2 @@
+-I external/libdrm
+-I external/libdrm/include/drm

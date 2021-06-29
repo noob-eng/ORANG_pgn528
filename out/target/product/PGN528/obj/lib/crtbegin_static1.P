@@ -1,0 +1,17 @@
+/root/oran/out/target/product/PGN528/obj/lib/crtbegin_static1.o: \
+ bionic/libc/arch-arm64/bionic/crtbegin.c \
+ bionic/libc/arch-arm64/bionic/../../bionic/libc_init_common.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h \
+ /root/oran/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/arch-arm64/bionic/../../arch-common/bionic/__dso_handle.h \
+ bionic/libc/arch-arm64/bionic/../../arch-common/bionic/atexit.h \
+ bionic/libc/arch-arm64/bionic/../../arch-common/bionic/pthread_atfork.h
+ bionic/libc/arch-arm64/bionic/crtbegin.c :
+ bionic/libc/arch-arm64/bionic/../../bionic/libc_init_common.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h :
+ /root/oran/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/arch-arm64/bionic/../../arch-common/bionic/__dso_handle.h :
+ bionic/libc/arch-arm64/bionic/../../arch-common/bionic/atexit.h :
+ bionic/libc/arch-arm64/bionic/../../arch-common/bionic/pthread_atfork.h :

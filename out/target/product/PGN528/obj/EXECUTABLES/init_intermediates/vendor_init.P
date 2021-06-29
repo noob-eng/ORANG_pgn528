@@ -1,0 +1,7 @@
+/root/oran/out/target/product/PGN528/obj/EXECUTABLES/init_intermediates/vendor_init.o: \
+  system/core/init/vendor_init.c \
+  build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+  system/core/init/vendor_init.h
+  system/core/init/vendor_init.c :
+  build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+  system/core/init/vendor_init.h :

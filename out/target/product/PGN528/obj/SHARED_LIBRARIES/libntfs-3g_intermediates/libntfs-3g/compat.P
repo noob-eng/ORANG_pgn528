@@ -1,0 +1,31 @@
+/root/oran/out/target/product/PGN528/obj/SHARED_LIBRARIES/libntfs-3g_intermediates/libntfs-3g/compat.o: \
+ external/ntfs-3g/libntfs-3g/compat.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ external/ntfs-3g/config.h external/ntfs-3g/include/ntfs-3g/compat.h \
+ bionic/libc/include/sys/param.h bionic/libc/include/limits.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h \
+ bionic/libc/include/sys/limits.h bionic/libc/kernel/uapi/linux/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ bionic/libc/include/machine/posix_limits.h \
+ bionic/libc/kernel/uapi/linux/param.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/param.h \
+ bionic/libc/kernel/uapi/asm-generic/param.h bionic/libc/include/errno.h \
+ bionic/libc/kernel/uapi/linux/errno.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h
+ external/ntfs-3g/libntfs-3g/compat.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ external/ntfs-3g/config.h external/ntfs-3g/include/ntfs-3g/compat.h :
+ bionic/libc/include/sys/param.h bionic/libc/include/limits.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h :
+ bionic/libc/include/sys/limits.h bionic/libc/kernel/uapi/linux/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ bionic/libc/include/machine/posix_limits.h :
+ bionic/libc/kernel/uapi/linux/param.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/param.h :
+ bionic/libc/kernel/uapi/asm-generic/param.h bionic/libc/include/errno.h :
+ bionic/libc/kernel/uapi/linux/errno.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h :

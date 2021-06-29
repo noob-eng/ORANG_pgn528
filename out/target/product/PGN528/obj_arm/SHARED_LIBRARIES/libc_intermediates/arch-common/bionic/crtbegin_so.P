@@ -1,0 +1,9 @@
+/root/oran/out/target/product/PGN528/obj_arm/SHARED_LIBRARIES/libc_intermediates/arch-common/bionic/crtbegin_so.o: \
+ bionic/libc/arch-common/bionic/crtbegin_so.c \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/arch-common/bionic/__dso_handle.h \
+ bionic/libc/arch-common/bionic/pthread_atfork.h
+ bionic/libc/arch-common/bionic/crtbegin_so.c :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/arch-common/bionic/__dso_handle.h :
+ bionic/libc/arch-common/bionic/pthread_atfork.h :

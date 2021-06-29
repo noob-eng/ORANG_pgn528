@@ -1,0 +1,5 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libc_bionic_intermediates/arch-arm/bionic/libgcc_compat.o: \
+ bionic/libc/arch-arm/bionic/libgcc_compat.c \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h
+ bionic/libc/arch-arm/bionic/libgcc_compat.c :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :

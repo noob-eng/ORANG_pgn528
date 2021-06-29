@@ -1,0 +1,11 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libc_aeabi_intermediates/arch-arm/bionic/__aeabi.o: \
+ bionic/libc/arch-arm/bionic/__aeabi.c \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stddef.h \
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/android/api-level.h bionic/libc/include/xlocale.h
+ bionic/libc/arch-arm/bionic/__aeabi.c :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stddef.h :
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/android/api-level.h bionic/libc/include/xlocale.h :

@@ -1,0 +1,7 @@
+/root/oran/out/target/product/PGN528/obj/EXECUTABLES/busybox_intermediates/coreutils/test_ptr_hack.o: \
+ external/busybox/coreutils/test_ptr_hack.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ /root/oran/out/target/product/PGN528/obj/busybox/full/include/autoconf.h
+ external/busybox/coreutils/test_ptr_hack.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ /root/oran/out/target/product/PGN528/obj/busybox/full/include/autoconf.h :

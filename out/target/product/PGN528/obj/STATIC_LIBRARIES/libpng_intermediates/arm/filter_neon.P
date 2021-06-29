@@ -1,0 +1,9 @@
+/root/oran/out/target/product/PGN528/obj/STATIC_LIBRARIES/libpng_intermediates/arm/filter_neon.o: \
+  external/libpng/arm/filter_neon.S \
+  build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+  external/libpng/arm/../pngpriv.h external/libpng/pnglibconf.h \
+  external/libpng/png.h
+  external/libpng/arm/filter_neon.S :
+  build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+  external/libpng/arm/../pngpriv.h external/libpng/pnglibconf.h :
+  external/libpng/png.h :

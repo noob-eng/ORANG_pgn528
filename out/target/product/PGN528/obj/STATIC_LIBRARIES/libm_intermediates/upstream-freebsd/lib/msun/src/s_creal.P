@@ -1,0 +1,13 @@
+/root/oran/out/target/product/PGN528/obj/STATIC_LIBRARIES/libm_intermediates/upstream-freebsd/lib/msun/src/s_creal.o: \
+ bionic/libm/upstream-freebsd/lib/msun/src/s_creal.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/libm/freebsd-compat.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/float.h \
+ external/libcxx/include/complex.h bionic/libm/include/complex.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h
+ bionic/libm/upstream-freebsd/lib/msun/src/s_creal.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/libm/freebsd-compat.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/float.h :
+ external/libcxx/include/complex.h bionic/libm/include/complex.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h :

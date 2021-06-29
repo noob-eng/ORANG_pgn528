@@ -1,0 +1,103 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libc_common_intermediates/bionic/legacy_32_bit_support.o: \
+ bionic/libc/bionic/legacy_32_bit_support.cpp \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/errno.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/android/api-level.h \
+ bionic/libc/kernel/uapi/linux/errno.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h \
+ bionic/libc/include/fcntl.h bionic/libc/include/sys/types.h \
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/kernel/uapi/linux/types.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/types.h \
+ bionic/libc/kernel/uapi/asm-generic/types.h \
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/bitsperlong.h \
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h \
+ bionic/libc/kernel/uapi/linux/posix_types.h \
+ bionic/libc/kernel/uapi/linux/stddef.h \
+ bionic/libc/kernel/uapi/linux/compiler.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/posix_types.h \
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h \
+ bionic/libc/include/sys/sysmacros.h \
+ bionic/libc/kernel/uapi/linux/fadvise.h \
+ bionic/libc/kernel/uapi/linux/fcntl.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/fcntl.h \
+ bionic/libc/kernel/uapi/asm-generic/fcntl.h \
+ bionic/libc/kernel/uapi/linux/stat.h bionic/libc/kernel/uapi/linux/uio.h \
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stdarg.h \
+ bionic/libc/include/sys/resource.h \
+ bionic/libc/kernel/uapi/linux/resource.h \
+ bionic/libc/kernel/uapi/linux/time.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/resource.h \
+ bionic/libc/kernel/uapi/asm-generic/resource.h \
+ bionic/libc/include/sys/vfs.h bionic/libc/kernel/uapi/linux/magic.h \
+ bionic/libc/include/unistd.h bionic/libc/include/sys/select.h \
+ bionic/libc/include/signal.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/sigcontext.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/uapi/linux/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ bionic/libc/include/machine/posix_limits.h \
+ bionic/libc/include/machine/pthread_types.h \
+ bionic/libc/include/machine/timespec.h \
+ bionic/libc/kernel/uapi/linux/signal.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/signal.h \
+ bionic/libc/kernel/uapi/asm-generic/signal-defs.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/siginfo.h \
+ bionic/libc/kernel/uapi/asm-generic/siginfo.h \
+ bionic/libc/include/sys/ucontext.h bionic/libc/include/sys/user.h \
+ bionic/libc/include/sys/sysconf.h
+ bionic/libc/bionic/legacy_32_bit_support.cpp :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/errno.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/android/api-level.h :
+ bionic/libc/kernel/uapi/linux/errno.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h :
+ bionic/libc/include/fcntl.h bionic/libc/include/sys/types.h :
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/kernel/uapi/linux/types.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/types.h :
+ bionic/libc/kernel/uapi/asm-generic/types.h :
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/bitsperlong.h :
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h :
+ bionic/libc/kernel/uapi/linux/posix_types.h :
+ bionic/libc/kernel/uapi/linux/stddef.h :
+ bionic/libc/kernel/uapi/linux/compiler.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/posix_types.h :
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h :
+ bionic/libc/include/sys/sysmacros.h :
+ bionic/libc/kernel/uapi/linux/fadvise.h :
+ bionic/libc/kernel/uapi/linux/fcntl.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/fcntl.h :
+ bionic/libc/kernel/uapi/asm-generic/fcntl.h :
+ bionic/libc/kernel/uapi/linux/stat.h bionic/libc/kernel/uapi/linux/uio.h :
+ prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/../lib/gcc/arm-linux-androideabi/4.9.x-google/include/stdarg.h :
+ bionic/libc/include/sys/resource.h :
+ bionic/libc/kernel/uapi/linux/resource.h :
+ bionic/libc/kernel/uapi/linux/time.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/resource.h :
+ bionic/libc/kernel/uapi/asm-generic/resource.h :
+ bionic/libc/include/sys/vfs.h bionic/libc/kernel/uapi/linux/magic.h :
+ bionic/libc/include/unistd.h bionic/libc/include/sys/select.h :
+ bionic/libc/include/signal.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/sigcontext.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/uapi/linux/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ bionic/libc/include/machine/posix_limits.h :
+ bionic/libc/include/machine/pthread_types.h :
+ bionic/libc/include/machine/timespec.h :
+ bionic/libc/kernel/uapi/linux/signal.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/signal.h :
+ bionic/libc/kernel/uapi/asm-generic/signal-defs.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/siginfo.h :
+ bionic/libc/kernel/uapi/asm-generic/siginfo.h :
+ bionic/libc/include/sys/ucontext.h bionic/libc/include/sys/user.h :
+ bionic/libc/include/sys/sysconf.h :

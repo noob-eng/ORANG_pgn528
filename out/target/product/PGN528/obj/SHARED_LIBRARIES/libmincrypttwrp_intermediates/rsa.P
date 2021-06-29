@@ -1,0 +1,21 @@
+/root/oran/out/target/product/PGN528/obj/SHARED_LIBRARIES/libmincrypttwrp_intermediates/rsa.o: \
+ bootable/recovery/libmincrypt/rsa.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bootable/recovery/libmincrypt/includes/mincrypt/rsa.h \
+ bionic/libc/include/inttypes.h bionic/libc/include/stdint.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h \
+ bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h \
+ bootable/recovery/libmincrypt/includes/mincrypt/sha.h \
+ bootable/recovery/libmincrypt/includes/mincrypt/hash-internal.h \
+ bootable/recovery/libmincrypt/includes/mincrypt/sha256.h
+ bootable/recovery/libmincrypt/rsa.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bootable/recovery/libmincrypt/includes/mincrypt/rsa.h :
+ bionic/libc/include/inttypes.h bionic/libc/include/stdint.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h :
+ bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h :
+ bootable/recovery/libmincrypt/includes/mincrypt/sha.h :
+ bootable/recovery/libmincrypt/includes/mincrypt/hash-internal.h :
+ bootable/recovery/libmincrypt/includes/mincrypt/sha256.h :

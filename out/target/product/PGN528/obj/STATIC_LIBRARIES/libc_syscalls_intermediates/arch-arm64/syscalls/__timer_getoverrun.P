@@ -1,0 +1,17 @@
+/root/oran/out/target/product/PGN528/obj/STATIC_LIBRARIES/libc_syscalls_intermediates/arch-arm64/syscalls/__timer_getoverrun.o: \
+ bionic/libc/arch-arm64/syscalls/__timer_getoverrun.S \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/libc/private/bionic_asm.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/unistd.h \
+ bionic/libc/kernel/uapi/asm-generic/unistd.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/bitsperlong.h \
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h \
+ bionic/libc/arch-arm64/include/machine/asm.h
+ bionic/libc/arch-arm64/syscalls/__timer_getoverrun.S :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/libc/private/bionic_asm.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/unistd.h :
+ bionic/libc/kernel/uapi/asm-generic/unistd.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/bitsperlong.h :
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h :
+ bionic/libc/arch-arm64/include/machine/asm.h :

@@ -1,0 +1,7 @@
+/root/oran/out/target/product/PGN528/obj/EXECUTABLES/mkfs.ntfs_intermediates/ntfsprogs/boot.o: \
+ external/ntfs-3g/ntfsprogs/boot.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ external/ntfs-3g/ntfsprogs/boot.h
+ external/ntfs-3g/ntfsprogs/boot.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ external/ntfs-3g/ntfsprogs/boot.h :

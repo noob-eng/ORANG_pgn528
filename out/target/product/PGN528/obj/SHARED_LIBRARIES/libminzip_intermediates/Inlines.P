@@ -1,0 +1,63 @@
+/root/oran/out/target/product/PGN528/obj/SHARED_LIBRARIES/libminzip_intermediates/Inlines.o: \
+  bootable/recovery/minzip/Inlines.c \
+  build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+  bootable/recovery/minzip/Bits.h \
+  bootable/recovery/minzip/inline_magic.h bionic/libc/include/stdlib.h \
+  bionic/libc/include/sys/cdefs.h \
+  bionic/libc/include/android/api-level.h bionic/libc/include/xlocale.h \
+  bionic/libc/include/alloca.h bionic/libc/include/malloc.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stddef.h \
+  bionic/libc/include/stdio.h bionic/libc/include/sys/types.h \
+  bionic/libc/include/stdint.h \
+  bionic/libc/include/machine/wchar_limits.h \
+  bionic/libc/kernel/uapi/linux/types.h \
+  bionic/libc/kernel/uapi/asm-arm64/asm/types.h \
+  bionic/libc/kernel/uapi/asm-generic/types.h \
+  bionic/libc/kernel/uapi/asm-generic/int-ll64.h \
+  bionic/libc/kernel/uapi/asm-arm64/asm/bitsperlong.h \
+  bionic/libc/kernel/uapi/asm-generic/bitsperlong.h \
+  bionic/libc/kernel/uapi/linux/posix_types.h \
+  bionic/libc/kernel/uapi/linux/stddef.h \
+  bionic/libc/kernel/uapi/linux/compiler.h \
+  bionic/libc/kernel/uapi/asm-arm64/asm/posix_types.h \
+  bionic/libc/kernel/uapi/asm-generic/posix_types.h \
+  bionic/libc/include/sys/sysmacros.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdarg.h \
+  bionic/libc/include/string.h bootable/recovery/minzip/Hash.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdbool.h \
+  bionic/libc/include/assert.h bootable/recovery/minzip/SysUtil.h \
+  bootable/recovery/minzip/Zip.h bionic/libc/include/utime.h \
+  bionic/libc/kernel/uapi/linux/utime.h \
+  external/libselinux/include/selinux/selinux.h \
+  external/libselinux/include/selinux/label.h
+  bootable/recovery/minzip/Inlines.c :
+  build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+  bootable/recovery/minzip/Bits.h :
+  bootable/recovery/minzip/inline_magic.h bionic/libc/include/stdlib.h :
+  bionic/libc/include/sys/cdefs.h :
+  bionic/libc/include/android/api-level.h bionic/libc/include/xlocale.h :
+  bionic/libc/include/alloca.h bionic/libc/include/malloc.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stddef.h :
+  bionic/libc/include/stdio.h bionic/libc/include/sys/types.h :
+  bionic/libc/include/stdint.h :
+  bionic/libc/include/machine/wchar_limits.h :
+  bionic/libc/kernel/uapi/linux/types.h :
+  bionic/libc/kernel/uapi/asm-arm64/asm/types.h :
+  bionic/libc/kernel/uapi/asm-generic/types.h :
+  bionic/libc/kernel/uapi/asm-generic/int-ll64.h :
+  bionic/libc/kernel/uapi/asm-arm64/asm/bitsperlong.h :
+  bionic/libc/kernel/uapi/asm-generic/bitsperlong.h :
+  bionic/libc/kernel/uapi/linux/posix_types.h :
+  bionic/libc/kernel/uapi/linux/stddef.h :
+  bionic/libc/kernel/uapi/linux/compiler.h :
+  bionic/libc/kernel/uapi/asm-arm64/asm/posix_types.h :
+  bionic/libc/kernel/uapi/asm-generic/posix_types.h :
+  bionic/libc/include/sys/sysmacros.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdarg.h :
+  bionic/libc/include/string.h bootable/recovery/minzip/Hash.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdbool.h :
+  bionic/libc/include/assert.h bootable/recovery/minzip/SysUtil.h :
+  bootable/recovery/minzip/Zip.h bionic/libc/include/utime.h :
+  bionic/libc/kernel/uapi/linux/utime.h :
+  external/libselinux/include/selinux/selinux.h :
+  external/libselinux/include/selinux/label.h :

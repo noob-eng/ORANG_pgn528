@@ -1,0 +1,2 @@
+-I external/e2fsprogs/lib/uuid
+-I external/zlib

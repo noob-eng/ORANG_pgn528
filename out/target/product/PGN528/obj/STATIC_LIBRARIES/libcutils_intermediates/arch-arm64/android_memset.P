@@ -1,0 +1,5 @@
+/root/oran/out/target/product/PGN528/obj/STATIC_LIBRARIES/libcutils_intermediates/arch-arm64/android_memset.o: \
+ system/core/libcutils/arch-arm64/android_memset.S \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h
+ system/core/libcutils/arch-arm64/android_memset.S :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :

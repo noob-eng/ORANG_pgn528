@@ -1,0 +1,17 @@
+/root/oran/out/target/product/PGN528/obj/STATIC_LIBRARIES/libstdc++_intermediates/bionic/__cxa_pure_virtual.o: \
+ bionic/libc/bionic/__cxa_pure_virtual.cpp \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/libc/private/libc_logging.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/android/api-level.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stdarg.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/private/libc_events.h
+ bionic/libc/bionic/__cxa_pure_virtual.cpp :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/libc/private/libc_logging.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/android/api-level.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stdarg.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/private/libc_events.h :

@@ -1,0 +1,11 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libm_intermediates/arm/e_sqrtf.o: \
+ bionic/libm/arm/e_sqrtf.S \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/private/bionic_asm.h \
+ bionic/libc/kernel/uapi/asm-arm/asm/unistd.h \
+ bionic/libc/arch-arm/include/machine/asm.h
+ bionic/libm/arm/e_sqrtf.S :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/private/bionic_asm.h :
+ bionic/libc/kernel/uapi/asm-arm/asm/unistd.h :
+ bionic/libc/arch-arm/include/machine/asm.h :

@@ -1,0 +1,5 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libc_bionic_intermediates/arch-arm/bionic/atomics_arm.o: \
+ bionic/libc/arch-arm/bionic/atomics_arm.c \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h
+ bionic/libc/arch-arm/bionic/atomics_arm.c :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :

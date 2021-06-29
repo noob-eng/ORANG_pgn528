@@ -1,0 +1,19 @@
+/root/oran/out/target/product/PGN528/obj/EXECUTABLES/busybox_intermediates/libbb/ptr_to_globals.o: \
+ external/busybox/libbb/ptr_to_globals.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ /root/oran/out/target/product/PGN528/obj/busybox/full/include/autoconf.h \
+ bionic/libc/include/errno.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/android/api-level.h \
+ bionic/libc/kernel/uapi/linux/errno.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h
+ external/busybox/libbb/ptr_to_globals.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ /root/oran/out/target/product/PGN528/obj/busybox/full/include/autoconf.h :
+ bionic/libc/include/errno.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/android/api-level.h :
+ bionic/libc/kernel/uapi/linux/errno.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h :

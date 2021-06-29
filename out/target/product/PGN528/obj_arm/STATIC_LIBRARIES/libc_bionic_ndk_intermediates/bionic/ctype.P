@@ -1,0 +1,9 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libc_bionic_ndk_intermediates/bionic/ctype.o: \
+ bionic/libc/bionic/ctype.cpp \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/ctype.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/android/api-level.h bionic/libc/include/xlocale.h
+ bionic/libc/bionic/ctype.cpp :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/ctype.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/android/api-level.h bionic/libc/include/xlocale.h :

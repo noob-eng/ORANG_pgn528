@@ -1,0 +1,5 @@
+/root/oran/out/target/product/PGN528/obj/EXECUTABLES/mke2fs_intermediates/default_profile.o: \
+ external/e2fsprogs/misc/default_profile.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h
+ external/e2fsprogs/misc/default_profile.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :

@@ -1,0 +1,7 @@
+/root/oran/out/target/product/PGN528/obj/STATIC_LIBRARIES/libc_bionic_intermediates/arch-arm64/bionic/__set_tls.o: \
+ bionic/libc/arch-arm64/bionic/__set_tls.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h
+ bionic/libc/arch-arm64/bionic/__set_tls.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h :

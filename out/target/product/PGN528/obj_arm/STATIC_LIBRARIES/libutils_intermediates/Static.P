@@ -1,0 +1,5 @@
+/root/oran/out/target/product/PGN528/obj_arm/STATIC_LIBRARIES/libutils_intermediates/Static.o: \
+ system/core/libutils/Static.cpp \
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h
+ system/core/libutils/Static.cpp :
+ build/core/combo/include/arch/linux-arm/AndroidConfig.h :

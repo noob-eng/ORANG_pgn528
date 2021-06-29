@@ -1,0 +1,13 @@
+/root/oran/out/target/product/PGN528/obj/SHARED_LIBRARIES/libc_intermediates/arch-common/bionic/crtbegin_so.o: \
+ bionic/libc/arch-common/bionic/crtbegin_so.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ bionic/libc/arch-common/bionic/__dso_handle_so.h \
+ bionic/libc/arch-common/bionic/atexit.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h \
+ bionic/libc/arch-common/bionic/pthread_atfork.h
+ bionic/libc/arch-common/bionic/crtbegin_so.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ bionic/libc/arch-common/bionic/__dso_handle_so.h :
+ bionic/libc/arch-common/bionic/atexit.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h :
+ bionic/libc/arch-common/bionic/pthread_atfork.h :

@@ -1,0 +1,133 @@
+/root/oran/out/target/product/PGN528/obj/SHARED_LIBRARIES/libntfs-3g_intermediates/libntfs-3g/index.o: \
+ external/ntfs-3g/libntfs-3g/index.c \
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h \
+ external/ntfs-3g/config.h bionic/libc/include/stdlib.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h \
+ bionic/libc/include/xlocale.h bionic/libc/include/alloca.h \
+ bionic/libc/include/malloc.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h \
+ bionic/libc/include/stdio.h bionic/libc/include/sys/types.h \
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/kernel/uapi/linux/types.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/types.h \
+ bionic/libc/kernel/uapi/asm-generic/types.h \
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/bitsperlong.h \
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h \
+ bionic/libc/kernel/uapi/linux/posix_types.h \
+ bionic/libc/kernel/uapi/linux/stddef.h \
+ bionic/libc/kernel/uapi/linux/compiler.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/posix_types.h \
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h \
+ bionic/libc/include/sys/sysmacros.h \
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stdarg.h \
+ bionic/libc/include/string.h bionic/libc/include/strings.h \
+ bionic/libc/include/errno.h bionic/libc/kernel/uapi/linux/errno.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno.h \
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h \
+ external/ntfs-3g/include/ntfs-3g/attrib.h \
+ external/ntfs-3g/include/ntfs-3g/types.h \
+ external/ntfs-3g/include/ntfs-3g/inode.h \
+ external/ntfs-3g/include/ntfs-3g/layout.h \
+ external/ntfs-3g/include/ntfs-3g/endians.h bionic/libc/include/endian.h \
+ bionic/libc/include/sys/endian.h bionic/libc/include/sys/param.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/uapi/linux/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ bionic/libc/include/machine/posix_limits.h \
+ bionic/libc/kernel/uapi/linux/param.h \
+ bionic/libc/kernel/uapi/asm-arm64/asm/param.h \
+ bionic/libc/kernel/uapi/asm-generic/param.h \
+ bionic/libc/include/byteswap.h \
+ external/ntfs-3g/include/ntfs-3g/support.h \
+ external/ntfs-3g/include/ntfs-3g/volume.h bionic/libc/include/mntent.h \
+ bionic/libc/include/paths.h external/ntfs-3g/include/ntfs-3g/param.h \
+ external/ntfs-3g/include/ntfs-3g/device.h \
+ external/ntfs-3g/include/ntfs-3g/device_io.h \
+ external/ntfs-3g/include/ntfs-3g/attrib.h \
+ external/ntfs-3g/include/ntfs-3g/index.h \
+ external/ntfs-3g/include/ntfs-3g/mft.h \
+ external/ntfs-3g/include/ntfs-3g/logging.h \
+ external/ntfs-3g/include/ntfs-3g/ntfstime.h bionic/libc/include/time.h \
+ bionic/libc/include/sys/time.h bionic/libc/kernel/uapi/linux/time.h \
+ bionic/libc/include/sys/stat.h bionic/libc/kernel/uapi/linux/stat.h \
+ bionic/libc/include/machine/timespec.h \
+ external/ntfs-3g/include/ntfs-3g/unistr.h \
+ external/ntfs-3g/include/ntfs-3g/runlist.h \
+ external/ntfs-3g/include/ntfs-3g/debug.h \
+ external/ntfs-3g/include/ntfs-3g/debug.h \
+ external/ntfs-3g/include/ntfs-3g/index.h \
+ external/ntfs-3g/include/ntfs-3g/collate.h \
+ external/ntfs-3g/include/ntfs-3g/mst.h \
+ external/ntfs-3g/include/ntfs-3g/dir.h \
+ external/ntfs-3g/include/ntfs-3g/logging.h \
+ external/ntfs-3g/include/ntfs-3g/bitmap.h \
+ external/ntfs-3g/include/ntfs-3g/reparse.h \
+ external/ntfs-3g/include/ntfs-3g/misc.h
+ external/ntfs-3g/libntfs-3g/index.c :
+ build/core/combo/include/arch/linux-arm64/AndroidConfig.h :
+ external/ntfs-3g/config.h bionic/libc/include/stdlib.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/android/api-level.h :
+ bionic/libc/include/xlocale.h bionic/libc/include/alloca.h :
+ bionic/libc/include/malloc.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stddef.h :
+ bionic/libc/include/stdio.h bionic/libc/include/sys/types.h :
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/kernel/uapi/linux/types.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/types.h :
+ bionic/libc/kernel/uapi/asm-generic/types.h :
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/bitsperlong.h :
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h :
+ bionic/libc/kernel/uapi/linux/posix_types.h :
+ bionic/libc/kernel/uapi/linux/stddef.h :
+ bionic/libc/kernel/uapi/linux/compiler.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/posix_types.h :
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h :
+ bionic/libc/include/sys/sysmacros.h :
+ prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/../lib/gcc/aarch64-linux-android/4.9.x-google/include/stdarg.h :
+ bionic/libc/include/string.h bionic/libc/include/strings.h :
+ bionic/libc/include/errno.h bionic/libc/kernel/uapi/linux/errno.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno.h :
+ bionic/libc/kernel/uapi/asm-generic/errno-base.h :
+ external/ntfs-3g/include/ntfs-3g/attrib.h :
+ external/ntfs-3g/include/ntfs-3g/types.h :
+ external/ntfs-3g/include/ntfs-3g/inode.h :
+ external/ntfs-3g/include/ntfs-3g/layout.h :
+ external/ntfs-3g/include/ntfs-3g/endians.h bionic/libc/include/endian.h :
+ bionic/libc/include/sys/endian.h bionic/libc/include/sys/param.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/uapi/linux/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ bionic/libc/include/machine/posix_limits.h :
+ bionic/libc/kernel/uapi/linux/param.h :
+ bionic/libc/kernel/uapi/asm-arm64/asm/param.h :
+ bionic/libc/kernel/uapi/asm-generic/param.h :
+ bionic/libc/include/byteswap.h :
+ external/ntfs-3g/include/ntfs-3g/support.h :
+ external/ntfs-3g/include/ntfs-3g/volume.h bionic/libc/include/mntent.h :
+ bionic/libc/include/paths.h external/ntfs-3g/include/ntfs-3g/param.h :
+ external/ntfs-3g/include/ntfs-3g/device.h :
+ external/ntfs-3g/include/ntfs-3g/device_io.h :
+ external/ntfs-3g/include/ntfs-3g/attrib.h :
+ external/ntfs-3g/include/ntfs-3g/index.h :
+ external/ntfs-3g/include/ntfs-3g/mft.h :
+ external/ntfs-3g/include/ntfs-3g/logging.h :
+ external/ntfs-3g/include/ntfs-3g/ntfstime.h bionic/libc/include/time.h :
+ bionic/libc/include/sys/time.h bionic/libc/kernel/uapi/linux/time.h :
+ bionic/libc/include/sys/stat.h bionic/libc/kernel/uapi/linux/stat.h :
+ bionic/libc/include/machine/timespec.h :
+ external/ntfs-3g/include/ntfs-3g/unistr.h :
+ external/ntfs-3g/include/ntfs-3g/runlist.h :
+ external/ntfs-3g/include/ntfs-3g/debug.h :
+ external/ntfs-3g/include/ntfs-3g/debug.h :
+ external/ntfs-3g/include/ntfs-3g/index.h :
+ external/ntfs-3g/include/ntfs-3g/collate.h :
+ external/ntfs-3g/include/ntfs-3g/mst.h :
+ external/ntfs-3g/include/ntfs-3g/dir.h :
+ external/ntfs-3g/include/ntfs-3g/logging.h :
+ external/ntfs-3g/include/ntfs-3g/bitmap.h :
+ external/ntfs-3g/include/ntfs-3g/reparse.h :
+ external/ntfs-3g/include/ntfs-3g/misc.h :
